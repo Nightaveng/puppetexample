@@ -1,0 +1,18 @@
+{
+  "name": "aleaper-ssh",
+  "version": "0.1.0",
+  "author": "aleaper",
+  "summary": "This module will manage ssh",
+  "license": "Apache-2.0",
+  "source": "https://github.com/Nightaveng/puppetexample",
+  "project_page": "https://github.com/Nightaveng/puppetexample",
+  "issues_url": "https://github.com/Nightaveng/puppetexample/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
